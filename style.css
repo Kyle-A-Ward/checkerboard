@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    width: 400px;
+}
+table{
+    display: flex;
+    justify-content: center;
+}
+.color1{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    margin: 0px;
+}
+.color2{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    margin: 0px;
+}
